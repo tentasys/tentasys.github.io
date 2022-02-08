@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "mycustom"
 locale                   : "ko-KR"
 title                    : "테르의 개발 일기장"
 title_separator          : "-"
-subtitle                 : "초보 개발자"
+subtitle                 : "Junior Web Developer"
 name                     : "Teirdarn Linkaden"
-description              : "전문성은 떨어지지만 일단 굴러가는 프로그램을 만드는 것이 목표입니다"
+description              : "하루하루 조금씩 열심히"
 url                      : "https://tentasys.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tentasys/tentasys.github.io"
@@ -29,9 +29,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname            : "tentasys-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  provider               : #"disqus" # false (default), "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  #disqus:
+   # shortname            : "tentasys-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -94,9 +94,9 @@ analytics:
 author:
   name             : "HeeJung Kang"
   avatar           : "/assets/img/profile.png"
-  bio              : "언제나 초보 개발자"
+  bio              : "하루하루 조금씩 열심히."
   location         : "Seoul, Korea"
- # email            : "tentasys@gmail.com"
+  email            : "tentasys@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
