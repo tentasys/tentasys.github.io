@@ -17,45 +17,44 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Gmarket, 
+  title-url: https://corp.gmarket.com/
+  date: Jun 2022 - Present
+  subtitle: Shopping Service API Team<br> BackEnd Developer<br><br> Shopping Service API팀<br> 백엔드 개발자
   tags:
-    - tag: React
+    - tag: Java
+    - tag: Spring
     - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Node.js
+    - tag: Redis
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Shinhan DS, 
+  title-url: https://www.shinhands.co.kr/
+  date: Sep 2019 - Jun 2022
+  subtitle: Finance Biz2 Cell<br> Groupware Solution Management<br><br> 금융Biz2 Cell<br> 신한금융그룹 그룹웨어 운영(전자결재, 전자설문, 메일)
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: E-Approval
+    - tag: C#
+    - tag: IIS
+    - tag: MSSQL
+    - tag: Outlook
+    - tag: JavaScript
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+
+- title: AhnLab
+  title-url: https://www.ahnlab.com/kr/site/main.do
+  date: Aug 2016 - Feb 2017
+  subtitle: Software QA as Trainee<br> 소프트웨어 QA 연수생
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Test Automation
+    - tag: RIDE
+    - tag: TestFactory
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: KwangWoon University
+  title-url: https://www.kw.ac.kr/ko/
+  date: Mar 2014 - Feb 2019
+  subtitle: B.A. Computer Science<br>컴퓨터공학 학사
   timeline-side: left
