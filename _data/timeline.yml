@@ -5,19 +5,7 @@
 # > tags: List of tags you want to associate with the entry
 # > timeline-side: The side on which you want to display the entry: left or right
 
-# Example of a timeline entry
-# - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-#   timeline-side: right
-
-- title: Gmarket, 
+- title: Gmarket
   title-url: https://corp.gmarket.com/
   date: Jun 2022 - Present
   subtitle: Shopping Service API Team<br> BackEnd Developer<br><br> Shopping Service API팀<br> 백엔드 개발자
@@ -29,7 +17,7 @@
     - tag: Redis
   timeline-side: right
 
-- title: Shinhan DS, 
+- title: Shinhan DS
   title-url: https://www.shinhands.co.kr/
   date: Sep 2019 - Jun 2022
   subtitle: Finance Biz2 Cell<br> Groupware Solution Management<br><br> 금융Biz2 Cell<br> 신한금융그룹 그룹웨어 운영(전자결재, 전자설문, 메일)

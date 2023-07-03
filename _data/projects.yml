@@ -13,21 +13,36 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: 그룹사 내 계열사 통합 프로젝트
+  descr: "각 계열사별로 사용중인 전자결재 기능 조사 및 일원화<br>통합에 따른 데이터 마이그레이션 및 그룹웨어 개편<br>파일 이관을 위한 파일 이동 배치 프로그램 개발<br>통합 이전 계열사 부서의 문서를 조회할 수 있는 기능 개발<br>메일 수신인 간 이동 기능 개발"
+  tags:
+    - tag: .Net
+    - tag: C#
+    - tag: HTML
+    - tag: JavaScript
+
+- name: 그룹웨어 재구축 프로젝트
+  descr: "그룹웨어 노후화로 인한 재구축<br>주요 그룹사별 전자결재 현황 파악 및 공통화<br>현재 기능 정리 및 새로운 요건 정의"
   demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: .Net
+    - tag: C#
+    - tag: HTML
+    - tag: JavaScript
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: 지마켓 홈 개인화 프로젝트
+  descr: "지마켓 홈 모듈화 개인화 프로젝트"
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: .Net
+    - tag: C#
+    - tag: React
+    - tag: Java
+    - tag: Spring
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Redis Cluster Migration
+  descr: "Master/Slave 환경에서의 Redis를 Cluster로 이전"
+  tags:
+    - tag: Redis
+    - tag: Spring
+    - tag: Java
+    - tag: Node.js
